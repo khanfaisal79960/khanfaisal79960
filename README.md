@@ -1,6 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Aakash!+👋;I'm+a+Front+End+Developer;I'm+a+Mobile+App+Developer;;I'm+a+Full+Stack+Developer)
-<!-- <h1 align="center">Hi 👋, I'm Aakash</h1> -->
-
 ## 🧐 About
 
 <h3 align="center">A passionate Data Analyst who loves uncovering insights through data. Skilled in analyzing, visualizing, and storytelling using the latest tools and technologies 😄
