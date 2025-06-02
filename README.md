@@ -71,7 +71,7 @@ I am a Full Stack Python Developer
   <kbd>
     <kbd>Cloud & DevOps</kbd>
     <br><br>
-    <img src="https://w7.pngwing.com/pngs/610/693/png-transparent-amazon-aws-logo.png" width="30px"/>
+    <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" width="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/>
@@ -98,7 +98,7 @@ I am a Full Stack Python Developer
     <br><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"/>
     <img src="https://images.icon-icons.com/2429/PNG/512/jira_logo_icon_147274.png" width="30px"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" width="30px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" width="50px"/>
   </kbd>
 </p>
 
