@@ -71,19 +71,19 @@ I am a Full Stack Python Developer
   <kbd>
     <kbd>Cloud & DevOps</kbd>
     <br><br>
-    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="30px"/>
+    <img src="https://w7.pngwing.com/pngs/610/693/png-transparent-amazon-aws-logo.png" width="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/>
-    <img src="https://img.icons8.com/ios-filled/50/github.png" width="30px"/>
+    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="30px"/>
   </kbd>
 
   <kbd>
     <kbd>Testing & CI/CD</kbd>
     <br><br>
-    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="30px"/>
+    <img src="https://datoux.gallerycdn.vsassets.io/extensions/datoux/vscode-pytest-intellisence/0.0.1/1623003313690/Microsoft.VisualStudio.Services.Icons.Default" width="30px"/>
     <img src="https://logos-world.net/wp-content/uploads/2023/12/Jenkins-Symbol.png" width="50px"/>
-    <img src="https://img.icons8.com/ios-filled/50/github.png" width="30px"/>
+    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="30px"/>
   </kbd>
 
   <kbd>
