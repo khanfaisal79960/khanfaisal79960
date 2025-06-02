@@ -7,7 +7,7 @@
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-I am Full Stack Python Developer
+I am a Full Stack Python Developer
 - 🌱 I’m currently learning Generative AI.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2025 Goals: Contribute to Open Source projects
