@@ -34,7 +34,7 @@ I am a Full Stack Python Developer
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img width="30px" src="https://blog.kakaocdn.net/dn/bFqjo9/btrRY5uXsiv/XN32kTRpDNopQ3pKzj7ugk/img.png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />
@@ -43,9 +43,9 @@ I am a Full Stack Python Developer
   <kbd>
     <kbd>Frameworks & Libraries</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+    <img width="30px" src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+    <img width="30px" src="https://e7.pngegg.com/pngimages/10/113/png-clipart-django-web-development-web-framework-python-software-framework-django-text-trademark-thumbnail.png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   </kbd>
@@ -71,7 +71,7 @@ I am a Full Stack Python Developer
   <kbd>
     <kbd>Cloud & DevOps</kbd>
     <br><br>
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/aws-color.png" width="30px"/>
+    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/>
@@ -81,7 +81,7 @@ I am a Full Stack Python Developer
   <kbd>
     <kbd>Testing & CI/CD</kbd>
     <br><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="30px"/>
+    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="30px"/>
     <img src="https://logos-world.net/wp-content/uploads/2023/12/Jenkins-Symbol.png" width="50px"/>
     <img src="https://img.icons8.com/ios-filled/50/github.png" width="30px"/>
   </kbd>
@@ -89,7 +89,7 @@ I am a Full Stack Python Developer
   <kbd>
     <kbd>ETL & Workflow</kbd>
     <br><br>
-    <img src="https://djeqr6to3dedg.cloudfront.net/repo-logos/apache/airflow/live/logo-1703896633736.png" width="30px"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzCIuPsPokbP-V0RFFgCRJqcve5gpjJmTtg&s" width="30px"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30px"/>
   </kbd>
 
