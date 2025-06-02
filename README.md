@@ -20,7 +20,7 @@ I am a Full Stack Python Developer
 
 <h3 align="left">▶ Connect with me:</h3>
   <p>
-    <a href="https://www.linkedin.com/in/khanfaisal79960" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khanfaisal79960/)](https://www.linkedin.com/in/khanfaisal79960/"></a>
+    <a href="https://www.linkedin.com/in/khanfaisal79960" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khanfaisal79960/)](https://www.linkedin.com/in/khanfaisal79960/"></a>
   <a href="https://www.medium.com/@khanfaisal79960" target="_blank"><img src="https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.medium.com/@khanfaisal79960)](https://www.medium.com/khanfaisal79960"></a>
     <a href="https://www.instagram.com/mr._perfect_1004" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mr._perfect_1004_)](https://www.instagram.com/mr._perfect_1004/"></a>
   </p>
