@@ -105,19 +105,38 @@ I am a Full Stack Python Developer
 
 <h3 align="left">▶ Stats:</h3>
 
-<p align="center"><img src="https://badges.pufler.dev/repos/khanfaisal79960/?style=for-the-badge"/>
-</p>
-<p align="center"><img src="https://badges.pufler.dev/commits/monthly/khanfaisal79960"/></p>
-
-</p>
-  </a>
-<h2 align="center">My Github Stats</h2>
+<!-- Shields.io badges -->
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanfaisal79960&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanfaisal79960&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanfaisal79960&theme=holi-theme">
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&url=https://api.github.com/users/khanfaisal79960" alt="Public Repos">
+  <img src="https://img.shields.io/github/followers/khanfaisal79960?label=Followers&style=for-the-badge" alt="Followers">
 </p>
+
+<h2 align="center">✨ My GitHub Stats</h2>
+
+<!-- Top languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanfaisal79960&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb" alt="Top Langs">
+</p>
+
+<!-- GitHub stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khanfaisal79960&count_private=true&show_icons=true&theme=github_dark" alt="GitHub Stats">
+</p>
+
+<!-- GitHub streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=khanfaisal79960&theme=holi-theme" alt="GitHub Streak">
+</p>
+
+<!-- GitHub Profile Trophy -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khanfaisal79960&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies">
+</p>
+
+<!-- GitHub Metrics -->
+<h2 align="center">📊 GitHub Metrics</h2>
+<p align="center">
+  <img src="https://github.com/khanfaisal79960/github-metrics/blob/main/github-metrics.svg" alt="Metrics">
+</p>
+
