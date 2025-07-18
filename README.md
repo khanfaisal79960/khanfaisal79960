@@ -131,8 +131,9 @@ I am a Full Stack Python Developer
 <!-- GitHub Profile Trophy -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khanfaisal79960&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=khanfaisal79960&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" alt="Trophies">
 </p>
+
 
 <!-- GitHub Metrics -->
 <h2 align="center">📊 GitHub Metrics</h2>
