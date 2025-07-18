@@ -128,16 +128,4 @@ I am a Full Stack Python Developer
   <img src="https://github-readme-streak-stats.herokuapp.com?user=khanfaisal79960&theme=holi-theme" alt="GitHub Streak">
 </p>
 
-<!-- GitHub Profile Trophy -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khanfaisal79960&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" alt="Trophies">
-</p>
-
-
-<!-- GitHub Metrics -->
-<h2 align="center">📊 GitHub Metrics</h2>
-<p align="center">
-  <img src="https://github.com/khanfaisal79960/github-metrics/blob/main/github-metrics.svg" alt="Metrics">
-</p>
 
